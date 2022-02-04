@@ -23,5 +23,5 @@ Kostya Popov - XGBoost
 James Widdowson - XGBoost
 
 
-As part of the UCL Quant Society in Jan 2022.
+As part of the UCL Quant Society in Jan 2022. Please note data has been deleted; adhearing to competition rules.
 
