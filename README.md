@@ -8,7 +8,7 @@ https://www.kaggle.com/c/g-research-crypto-forecasting/submissions
 Worked on by 
 
 
-Henry Atkins
+Henry Atkins - Team lead
 
 
 Egor Scharapkin - Linear Regressor
